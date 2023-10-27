@@ -1,0 +1,39 @@
+body {
+    /* Color de fondo */
+    background-color: rgb(208, 252, 143);
+    /* Color de las Letras */
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+    color:rgb(82, 110, 82);
+}
+
+/* Para agregar una class se pone un . y luego el nombre de la clase */
+.titulo {
+    color: darkgreen;
+}
+
+/* Si no lleva punto se afectan todos los elementos */
+img {
+    width: 100px;
+}
+
+.imagen2 {
+    width: 50px;
+}
+
+.imagen3 {
+    width: 50px;
+    height: 50px;
+}
+
+a {
+    color: currentColor;
+}
+
+.link_tecnolochicas {
+    color: red;
+}
